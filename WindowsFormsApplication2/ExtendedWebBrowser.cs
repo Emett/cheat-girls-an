@@ -63,16 +63,17 @@ namespace WindowsFormsApplication2
         const int maxGlobT = 100;
         int globT = maxGlobT;
 
+
         public static Dictionary<string,int>  CheatGirls = new Dictionary<string,int>();
         public static List<int> ModuloGirls = new List<int>();//how fast them grow 1- 100%, 2 - 50%
         //List<int> CurModGirls = new List<int>();
         public static List<int> CurAllGirls = new List<int>();
         public static void CheatGirlsInit() {
-            CheatGirls.Add("Федорец",0);
+            CheatGirls.Add("едорец",0);
             ModuloGirls.Add(1);
             CurAllGirls.Add(0);
 
-            CheatGirls.Add("Римарчук",1);
+            CheatGirls.Add("имарчук",1);
             ModuloGirls.Add(1);
             CurAllGirls.Add(0);
 
@@ -104,7 +105,7 @@ namespace WindowsFormsApplication2
                         doWaitClick(bad);
                     }
 
-                    Thread.Sleep(2000);
+                    Thread.Sleep(2500);
                     return true;
                 }
             }
@@ -112,6 +113,39 @@ namespace WindowsFormsApplication2
 
         }
 
+        public static Dictionary<string, int> BlackGirls = new Dictionary<string, int>();
+        public static List<int> CurBlackGirls = new List<int>();
+
+        public static void BlackGirlsInit()
+        {
+            BlackGirls.Add("арасик", 0);
+            CurBlackGirls.Add(0);
+
+            BlackGirls.Add("когоню", 1);
+            CurBlackGirls.Add(0);
+
+        }
+
+        bool FoundBlackGirl(string where, IHTMLElement thats_she, IHTMLElement another)
+        {
+
+            foreach (string el in BlackGirls.Keys)
+            {
+                if (where.Contains(el))
+                {
+                    int i = BlackGirls[el];
+
+                    CurBlackGirls[i]--;
+                    
+                    doWaitClick(another);
+
+                    Thread.Sleep(2500);
+                    return true;
+                }
+            }
+            return false;
+
+        }
 
         static public int All = 0, Che = 0;
         
@@ -231,7 +265,8 @@ namespace WindowsFormsApplication2
                     if (FoundCheatGirl(name1, vi1, vi2)) return;
                     if (FoundCheatGirl(name2, vi2, vi1)) return;
 
-
+                    if (FoundBlackGirl(name1, vi1, vi2)) return;
+                    if (FoundBlackGirl(name2, vi2, vi1)) return;
 /*
                     if (name1.Contains("Федорец") || name1.Contains("Римарчук") || name1.Contains("одоп"))
                     {

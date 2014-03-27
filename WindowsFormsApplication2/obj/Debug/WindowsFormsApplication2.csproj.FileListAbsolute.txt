@@ -64,3 +64,8 @@ C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsA
 C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
 C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

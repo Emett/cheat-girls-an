@@ -21,6 +21,7 @@ namespace WindowsFormsApplication2
         {
             InitializeComponent();
             ExtendedWebBrowser.CheatGirlsInit();
+            ExtendedWebBrowser.BlackGirlsInit();
             Stop = true;
             StopToggle();
             DisableClickSounds();
@@ -40,6 +41,10 @@ namespace WindowsFormsApplication2
                 textBox2.Text = l[1].ToString();
                 textBox3.Text = l[2].ToString();
                 textBox4.Text = l[3].ToString();
+
+                blackBox1.Text = l[4].ToString();
+                blackBox2.Text = l[5].ToString();
+
                 allBox.Text = l.Last().ToString();
             }
         }
@@ -84,7 +89,11 @@ namespace WindowsFormsApplication2
 
 
                    SetList(ExtendedWebBrowser.CurAllGirls.Zip(ExtendedWebBrowser.ModuloGirls, (x, y) => (x+y-1)/ y)
-                       .ToList().Concat(new List<int>(new int[] { ExtendedWebBrowser.All })).ToList());
+                       .ToList().Concat(
+                       ExtendedWebBrowser.CurBlackGirls.Concat(
+                       new List<int>(new int[] { ExtendedWebBrowser.All }))
+                       .ToList())
+                       .ToList());
                     /*textBox1.Text = ExtendedWebBrowser.All.ToString();
                     textBox2.Text = ExtendedWebBrowser.Che.ToString();*/
                 }

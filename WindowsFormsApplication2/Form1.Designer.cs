@@ -39,6 +39,8 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timerBox = new System.Windows.Forms.TextBox();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
+            this.blackBox1 = new System.Windows.Forms.TextBox();
+            this.blackBox2 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button1
@@ -85,7 +87,7 @@
             // 
             // allBox
             // 
-            this.allBox.Location = new System.Drawing.Point(12, 244);
+            this.allBox.Location = new System.Drawing.Point(12, 320);
             this.allBox.Name = "allBox";
             this.allBox.Size = new System.Drawing.Size(100, 22);
             this.allBox.TabIndex = 6;
@@ -120,11 +122,29 @@
             this.timer2.Interval = 1000;
             this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
             // 
+            // blackBox1
+            // 
+            this.blackBox1.Location = new System.Drawing.Point(12, 227);
+            this.blackBox1.Name = "blackBox1";
+            this.blackBox1.Size = new System.Drawing.Size(100, 22);
+            this.blackBox1.TabIndex = 8;
+            this.blackBox1.Text = "0";
+            // 
+            // blackBox2
+            // 
+            this.blackBox2.Location = new System.Drawing.Point(12, 255);
+            this.blackBox2.Name = "blackBox2";
+            this.blackBox2.Size = new System.Drawing.Size(100, 22);
+            this.blackBox2.TabIndex = 9;
+            this.blackBox2.Text = "0";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1059, 600);
+            this.Controls.Add(this.blackBox2);
+            this.Controls.Add(this.blackBox1);
             this.Controls.Add(this.timerBox);
             this.Controls.Add(this.allBox);
             this.Controls.Add(this.textBox4);
@@ -153,6 +173,8 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.TextBox timerBox;
         private System.Windows.Forms.Timer timer2;
+        private System.Windows.Forms.TextBox blackBox1;
+        private System.Windows.Forms.TextBox blackBox2;
     }
 }
 
