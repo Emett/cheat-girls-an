@@ -105,8 +105,8 @@ namespace WindowsFormsApplication2
             
             
         }
-        const string DefaultTimerBoxString = "20:00";
-        const int DefaultLeftToStop = 300;
+        const string DefaultTimerBoxString = "10:05";
+        const int DefaultLeftToStop = 200;
 
         public bool Stop = false;
         int LeftToStop = DefaultLeftToStop;
@@ -155,6 +155,11 @@ namespace WindowsFormsApplication2
         {
             LeftToStop--;
             if (LeftToStop == 0) StopToggle();
+        }
+
+        private void timerBox_TextChanged(object sender, EventArgs e)
+        {
+
         }
 
     }

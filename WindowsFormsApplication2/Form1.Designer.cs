@@ -116,6 +116,7 @@
             this.timerBox.Size = new System.Drawing.Size(47, 22);
             this.timerBox.TabIndex = 7;
             this.timerBox.Text = "15:00";
+            this.timerBox.TextChanged += new System.EventHandler(this.timerBox_TextChanged);
             // 
             // timer2
             // 
