@@ -1,0 +1,66 @@
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy (2) - Copy - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
