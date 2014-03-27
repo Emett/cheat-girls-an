@@ -69,3 +69,9 @@ C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsF
 C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
 C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Vitaliy\Documents\Visual Studio 2013\Projects\Cheat-Girls-Anon\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

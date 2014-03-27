@@ -118,10 +118,10 @@ namespace WindowsFormsApplication2
 
         public static void BlackGirlsInit()
         {
-            BlackGirls.Add("арасик", 0);
+            BlackGirls.Add("Голуб", 0);
             CurBlackGirls.Add(0);
 
-            BlackGirls.Add("когоню", 1);
+            BlackGirls.Add("Li", 1);
             CurBlackGirls.Add(0);
 
         }
@@ -265,8 +265,8 @@ namespace WindowsFormsApplication2
                     if (FoundCheatGirl(name1, vi1, vi2)) return;
                     if (FoundCheatGirl(name2, vi2, vi1)) return;
 
-                    if (FoundBlackGirl(name1, vi1, vi2)) return;
-                    if (FoundBlackGirl(name2, vi2, vi1)) return;
+                   // if (FoundBlackGirl(name1, vi1, vi2)) return;
+                   // if (FoundBlackGirl(name2, vi2, vi1)) return;
 /*
                     if (name1.Contains("Федорец") || name1.Contains("Римарчук") || name1.Contains("одоп"))
                     {
